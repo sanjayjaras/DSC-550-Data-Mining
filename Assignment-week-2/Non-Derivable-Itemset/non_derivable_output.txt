@@ -1,0 +1,9 @@
+File Name 1:  itemsets.txt
+File Name 2:  ndi.txt
+Itemset:('29', '34', '40', '52', '62')	Lower Bounds:{2885, 2886, 2888, 2877, 2879}	Upper Bounds:{2888, -278, 3019, 2892, 2897, 2900, 3004}	Nonderivable
+Itemset:('7', '29')	Lower Bounds:{6255}	Upper Bounds:{3076, 3181}	Nonderivable
+Itemset:('29', '48', '58')	Lower Bounds:{2997}	Upper Bounds:{3012, 3180, 2998, -193}	Nonderivable
+Itemset:('7', '29', '36', '40', '52', '58', '60')	Lower Bounds:{2889, 2890, 2884}	Upper Bounds:{2915, 2890, 2891, -180, 2892, 2987, 2897, 2901, 2934, 3002}	Nonderivable
+Itemset:('5', '40', '52', '60')	Lower Bounds:{2888, 6075, 2892, 2893}	Upper Bounds:{2913, 3113, 2893, 2904, 2939}	Nonderivable
+Itemset:('7', '36', '40', '58')	Lower Bounds:{2952, 6134}	Upper Bounds:{3072, 2978, 2952, 2953, 3049}	Nonderivable
+Itemset:('36', '40', '52', '58', '60', '66')	Lower Bounds:{2888, 2842, 6022, 2887}	Upper Bounds:{2912, 3015, 2888, 2889, 2985, 2899}	Nonderivable
